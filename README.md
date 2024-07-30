@@ -9,7 +9,7 @@
 I love sharing my knowledge and experience, contribute to open source projects related to JavaScript.
 
 
-🤔  I’m currently open for: A new job opportunity in Netherlands, Germany or Remote [LINK TO MY RESUME](https://hakim.ninja/static/media/ahmed-hakim.7685b440.pdf).
+🤔  I’m currently open for: A new job opportunity in Netherlands [LINK TO MY RESUME](https://hakim.ninja/static/media/ahmed-hakim.7685b440.pdf).
 
 
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
